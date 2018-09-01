@@ -1,0 +1,42 @@
+.body-add-centers {
+  background: #edefed;
+}
+
+.container-add-centers {
+  margin-top: 30px;
+}
+
+.title-add-centers {
+  text-align: center;
+}
+.image-add-centers {
+  text-align: center;
+}
+.image-add-centers img {
+  height: 250px;
+  cursor: pointer;
+}
+
+#file-input {
+  display: none;
+}
+
+.button-add {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.message-succesfull,
+.message-error {
+  text-align: center;
+  padding-bottom: 350px;
+  text-justify: auto;
+}
+
+.message-succesfull h1 {
+  color: green;
+}
+
+.message-error h4 {
+  color: red;
+}

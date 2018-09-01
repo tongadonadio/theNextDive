@@ -1,0 +1,66 @@
+.container-centers {
+  padding-top: 30px;
+}
+
+.title-center {
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 20px;
+}
+
+.container-card {
+  padding: 20px;
+}
+
+.container-card h5 {
+  cursor: pointer;
+}
+
+.container-card img {
+  cursor: pointer;
+}
+
+.container-card p {
+  font-size: 14px;
+}
+
+.image-card {
+  width: auto;
+  height: 150px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container-map {
+  padding: 20px;
+  height: 100vh;
+  width: 100%;
+}
+
+.container-map-modal {
+  padding: 20px;
+  height: 200px;
+  width: 100%;
+}
+
+.marker-map {
+  height: 35px;
+  cursor: pointer;
+}
+
+.image-detail {
+  width: 100%;
+}
+
+.contact-detail {
+  text-decoration: none !important;
+  color: white;
+}
+
+.alert-message {
+  margin-top: 20px;
+}
+
+.image-infoWindow {
+  height: 80px;
+}
